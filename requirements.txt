@@ -1,4 +1,5 @@
-﻿cachetools==4.2.2
+git+https://github.com/trentm/python-markdown2
+
 python-telegram-bot==13.11
 Telethon==1.24.0
 python-arq==6.0.3
